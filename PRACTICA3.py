@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 00:22:54 2024
-
 @author: arroy
 """
-
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 import heapq
